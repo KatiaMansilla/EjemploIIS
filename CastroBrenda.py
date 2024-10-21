@@ -1,0 +1,5 @@
+print("Nombre: Brenda Wanda Castro Choquehuanca") 
+print("Edad: 20 años") 
+print("CI: 9221962")
+print("Carrera: Ingenieria industrial y de sistemas") 
+print("Semestre: 6")
