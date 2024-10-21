@@ -1,10 +1,10 @@
-a = int(input("Ingrese numero de la persona 1: "))
-b = int(input("Ingrese numero de la persona 2: "))
+a = int(input("INGRESE EL NUMERO 1: "))
+b = int(input("INGRESE EL NUMERO 2: "))
 suma = 0
 for i in range(1, a):
     if a % i == 0: 
         suma += i
 if suma == b:
-    print("Los numeros son amigos")
+    print("LOS NUMEROS SON AMIGOS")
 else:
-    print("Los numeros son enemigos")
+    print("LOS NUMEROS SON ENEMIGOS")
