@@ -1,0 +1,5 @@
+print("Horacio Alfaro Delgado")
+print("Ingenieria en Sistemas Informáticos")
+print("4to Semestre")
+print("C.I.: 6976505")
+print("Wislla Sin Fronteras")
