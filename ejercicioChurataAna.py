@@ -4,8 +4,8 @@ def suma_divisores_propios(n):
 def son_amigos(num1, num2):
     return suma_divisores_propios(num1) == num2 and suma_divisores_propios(num2) == num1
 
-numero1 = int(input("Introduce el primer número: "))
-numero2 = int(input("Introduce el segundo número: "))
+numero1 = int(input("INTRODUCE EL PRIMER NÚMERO : "))
+numero2 = int(input("INTRODUCE EL SEGUNDO NÚMERO: "))
 
 if son_amigos(numero1, numero2):
     print(f"{numero1} y {numero2} SON AMIGOS!")
