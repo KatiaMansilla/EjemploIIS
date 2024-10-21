@@ -11,11 +11,11 @@ def sonAmigos(num1, num2):
     return suma_divisores_propios(num1) == num2 and suma_divisores_propios(num2) == num1
 
 
-a = int(input("Introduce el numero 1: "))
-b = int(input("Introduce el numero 2: "))
+a = int(input("INTRODUCE EL NUMERO 1: "))
+b = int(input("INTRODUCE EL NUMERO 2: "))
 
 # VERIFICAR SI SON AMIGOS
 if sonAmigos(a, b):
-    print(f"{a} y {b} son amigos")
+    print(f"{a} Y {b} SON AMIGOS")
 else:
-    print(f"{a} y {b} no son amigos")
+    print(f"{a} Y {b} NO SON AMIGOS")
