@@ -16,6 +16,6 @@ suma2 = suma_divisores_propios(numero2)
 
 # Determinar si son amigos
 if suma1 == numero2 and suma2 == numero1:
-    print(f"{numero1} y {numero2} son números amigos.")
+    print(f"{numero1} Y {numero2} SON NÚMEROS AMIGOS.")
 else:
-    print(f"{numero1} y {numero2} no son números amigos.")
+    print(f"{numero1} Y {numero2} NO SON NÚMEROS AMIGOS.")
