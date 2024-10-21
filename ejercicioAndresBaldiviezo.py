@@ -14,7 +14,7 @@ def sonAmigos(num1, num2):
 a = int(input("Introduce el numero 1: "))
 b = int(input("Introduce el numero 2: "))
 
-# Verificar si son amigos
+# VERIFICAR SI SON AMIGOS
 if sonAmigos(a, b):
     print(f"{a} y {b} son amigos")
 else:
