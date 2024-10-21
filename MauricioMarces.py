@@ -1,0 +1,5 @@
+print("Mauricio Andres Marces Pizza")
+print("Ingenieria en Sistemas Informáticos")
+print("4to Semestre")
+print("C.I.: 11110134")
+print("Wislla Sin Fronteras")
