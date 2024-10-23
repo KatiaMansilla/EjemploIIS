@@ -9,11 +9,11 @@ def son_amigos(num1, num2):
     return suma_divisores(num1) == num2 and suma_divisores(num2) == num1
 
 # Leer dos números
-n1 = int(input("Ingresa el primer número: "))
-n2 = int(input("Ingresa el segundo número: "))
+n1 = int(input("INGRESA EL PRIMER NÚMERO: "))
+n2 = int(input("INGRESA EL SEGUNDO NÚMERO: "))
 
 # Verificar si son amigos
 if son_amigos(n1, n2):
-    print(f"{n1} y {n2} son números amigos.")
+    print(f"{n1} Y {n2} SON NÚMEROS AMIGOS.")
 else:
-    print(f"{n1} y {n2} no son números amigos.")
+    print(f"{n1} Y {n2} NO SON NÚMEROS AMIGOS.")
